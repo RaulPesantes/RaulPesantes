@@ -1,4 +1,4 @@
-## Hi there, mi nombre es 👋
+## Hi there,👋
 
 <!--
 **RaulPesantes/RaulPesantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
