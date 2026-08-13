@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Raúl Pesantes
 
-<!--
-**RaulPesantes/RaulPesantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Desarrollador apasionado por la tecnología y el código limpio. Me encanta aprender nuevas tecnologías y compartir conocimiento.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías que uso
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas
+![RaulPesantes GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulPesantes&show_icons=true&theme=radical)
+
+## 🔭 Actualmente trabajando en...
+- Proyectos personales con React y Node.js
+- Mejorando mis habilidades en Python
+
+## 🌱 Aprendiendo
+- TypeScript
+- Docker
+- Cloud Computing
+
+## 📫 ¿Cómo contactarme?
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 🐦 [Twitter](https://twitter.com/tuusuario)
+- 📧 Email: tuemail@gmail.com
+
+## ⚡ Dato curioso
+¡Me encanta el café y programar de madrugada! ☕🌙
+
