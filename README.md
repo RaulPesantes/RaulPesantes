@@ -38,7 +38,7 @@ Aprender mas tecnologías.
 - Mejorando mis habilidades
 
 ## 🌱 Aprendiendo
-- TypeScript
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ## 📫 ¿Cómo contactarme?
 - 📧 Email: raulpesantes1@gmail.com
