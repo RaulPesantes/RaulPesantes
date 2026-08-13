@@ -29,9 +29,6 @@ Aprender mas tecnologías.
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 Estadísticas
-![RaulPesantes GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulPesantes&show_icons=true&theme=radical)
-
 ## 🔭 Actualmente trabajando en...
 - Proyectos personales
 - Mejorando mis habilidades
@@ -41,7 +38,4 @@ Aprender mas tecnologías.
 
 ## 📫 ¿Cómo contactarme?
 - 📧 Email: raulpesantes1@gmail.com
-
-## ⚡ Dato curioso
-Ninguno
 
