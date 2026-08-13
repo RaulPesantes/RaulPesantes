@@ -5,11 +5,11 @@ Desarrollador apasionado por la tecnología y el código limpio. Me encanta apre
 
 ## 💻 Tecnologías que uso
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -23,7 +23,6 @@ Desarrollador apasionado por la tecnología y el código limpio. Me encanta apre
 ## 🌱 Aprendiendo
 - TypeScript
 - Docker
-- Cloud Computing
 
 ## 📫 ¿Cómo contactarme?
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
